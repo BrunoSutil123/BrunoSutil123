@@ -9,8 +9,8 @@ Me chamo Bruno de Oliveira Sutil, tenho 20 anos. Sou estudante de Engenharia da 
     <a href="https://github.com/BrunoSutil123?tab=followers">
         <img 
             alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/BrunoSutil123?color=236ad3&labelColor=blue&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            title="Me siga no GitHub"
+            src="https://img.shields.io/github/followers/BrunoSutil123?style=for-the-badge&label=Seguidores&color=236ad3&labelColor=236ad3"
         />
     </a>
     <a href="https://www.linkedin.com/in/bruno-sutil-068292269/">
