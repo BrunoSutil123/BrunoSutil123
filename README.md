@@ -1,9 +1,38 @@
 # 👨🏽‍💻 Bruno de Oliveira Sutil
 
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Estudante+de+Engenharia+da+Computação"
+  />
+</p>
+
+
+
 **`Aluno de Engenharia da Computação`**
 
-Me chamo Bruno de Oliveira Sutil, tenho 20 anos. Sou estudante de Engenharia da Computação (5º semestre), com formação técnica em Informática e grande interesse em construir minha carreira na área de Tecnologia da Informação. Sigo aprofundando meus estudos em programação, com foco em lógica de programação, automação e boas práticas de desenvolvimento.
- 
+
+
+
+<table>
+  <tr>
+    <td width="60%">
+      
+Me chamo Bruno de Oliveira Sutil, tenho 20 anos.  
+Sou estudante de Engenharia da Computação (5º semestre), com formação técnica em Informática e grande interesse em construir minha carreira na área de Tecnologia da Informação.  
+
+Sigo aprofundando meus estudos em programação, com foco em lógica de programação, automação e boas práticas de desenvolvimento.
+    </td>
+    <td width="40%" align="center">
+      <img 
+        src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+        width="350"
+      />
+    </td>
+  </tr>
+</table>
+
+
+
 
 <div align= "center">
     <a href="https://github.com/BrunoSutil123?tab=followers">
@@ -104,17 +133,18 @@ Me chamo Bruno de Oliveira Sutil, tenho 20 anos. Sou estudante de Engenharia da 
 
 
 
-<!-- colocar quando eu tiver mais projetos
 ### 📊 Estatísticas
 
-<p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+<p align="center">
+  <img 
+   height="180" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=BrunoSutil123&layout=compact&theme=tokyonight"
   />
-
 </p>
->
+
+<p align="center">
+  <img 
+    height="180" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrunoSutil123&show_icons=true&theme=tokyonight" 
+  />
+</p>
