@@ -1,5 +1,5 @@
 # 👨🏽‍💻 Bruno de Oliveira Sutil
-
+**`Aluno de Engenharia da Computação`**
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Estudante+de+Engenharia+da+Computação"
@@ -8,7 +8,7 @@
 
 
 
-**`Aluno de Engenharia da Computação`**
+
 
 
 
