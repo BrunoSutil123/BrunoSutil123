@@ -98,8 +98,12 @@ Sigo aprofundando meus estudos em programação, com foco em lógica de programa
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
     <img alt="IntelliJ" title="IntelliJ" width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
-    <img alt="DevC++" title="DevC++" width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+    <img 
+    alt="Dev C++" 
+    title="Dev C++" 
+    width="40px"
+    src="/devcpp.png"
+/>
 </div>
 
 
